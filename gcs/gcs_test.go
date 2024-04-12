@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"cloud.google.com/go/storage"
-	"github.com/airbusgeo/osio"
+	"github.com/weathersource/goext-osio"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/api/option"
 )

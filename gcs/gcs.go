@@ -22,8 +22,8 @@ import (
 	"syscall"
 
 	"cloud.google.com/go/storage"
-	"github.com/airbusgeo/errs"
-	"github.com/airbusgeo/osio/internal"
+	errs "github.com/weathersource/goext-errs"
+	"github.com/weathersource/goext-osio/internal"
 	"google.golang.org/api/googleapi"
 )
 
